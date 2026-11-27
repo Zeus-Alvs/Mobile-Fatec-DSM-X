@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CadastroFirestore</string>
+    <string name="titulo_tela">Novo Cliente</string>
+    <string name="subtitulo_tela">Informe os dados abaixo para registrar no sistema.</string>
+    <string name="hint_nome">Nome completo</string>
+    <string name="hint_cpf">CPF</string>
+    <string name="acao_salvar">Salvar cadastro</string>
+    <string name="msg_campos_vazios">Preencha todos os campos obrigatórios.</string>
+    <string name="msg_sucesso">Cadastro salvo com sucesso.</string>
+    <string name="msg_erro">Falha ao salvar: %1$s</string>
+</resources>
